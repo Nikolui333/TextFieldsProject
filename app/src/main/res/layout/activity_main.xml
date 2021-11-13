@@ -26,6 +26,7 @@
             app:startIconDrawable="@drawable/location"
             app:startIconContentDescription="@string/enterCity"
             app:boxStrokeWidthFocused="4dp"
+            app:endIconMode="clear_text"
             app:helperTextEnabled="true"
             app:helperText="@string/enterCity"
             app:helperTextTextColor="@android:color/white"
